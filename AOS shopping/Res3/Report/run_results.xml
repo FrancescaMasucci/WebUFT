@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>StartUp Browser.Navigate</Name>
+    <Description>Navigate to http://advantageonlineshopping.com</Description>
+    <StartTime>2021-06-08 12:13:58</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <Operation>Navigate</Operation>
+        <OperationData><![CDATA[Navigate to http://advantageonlineshopping.com]]></OperationData>
+      </TestObject>
+      <IconKey>8695c78943104c48b4443dc897c95e5d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\38a2e9e5-a713-4306-a9f7-6b9a18b488ac.jpeg" highlight="0,0,1124,484" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>StartUp Browser.Sync</Name>
+    <Description />
+    <StartTime>2021-06-08 12:13:59</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <Operation>Sync</Operation>
+      </TestObject>
+      <IconKey>8695c78943104c48b4443dc897c95e5d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\be74b125-e462-4890-b962-5d2075f2123e.jpeg" highlight="0,0,1124,484" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>StartUp Browser</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2021-06-08 12:13:58</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>8695c78943104c48b4443dc897c95e5d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2021-06-08 12:14:10</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>7bba624ead2e444da0fbc1245c68e46b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\e6fe8720-a01c-4dfb-8ef5-15608c0d43e4.jpeg" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2021-06-08 12:14:00</StartTime>
+    <Duration>10</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>b278e56b6c4a4b04aa9989410dce0037</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2021-06-08 12:13:58</StartTime>
+    <Duration>12</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>4e3b8cd4e6b74ca9828d0210b96b9dff</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Microsoft Internet Explorer</Name>
+        <Path>C:\Program Files\Internet Explorer\IEXPLORE.EXE</Path>
+        <Version>11</Version>
+        <Technology>web</Technology>
+        <Reserved />
+        <AdditionalInfos>
+          <Info>http://advantageonlineshopping.com</Info>
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2021-06-08 12:14:10</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>fc14d126832444e9bf95a2c785b94115</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\4e643a68-acca-4b85-a6de-5d90c95cfee9.jpeg" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>AOS shopping</Name>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>0</ToolVersion>
+    <ToolVersionStringLiteral>15.0.2</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2021-06-08 12:13:56</StartTime>
+    <Duration>14</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>da50124776b945fba80f1015c6829095</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>00:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>demo</User>
+      <CpuInfo>Intel(R) Xeon(R) Platinum 8175M CPU @ 2.50GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16196</TotalMemory>
+      <HostName>NIMBUSCLIENT</HostName>
+      <OSInfo>Windows Server 2016</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res3</ResultName>
+    <RunStartTime>2021-06-08 12:13:56</RunStartTime>
+    <Timezone>00:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>0</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>15.0.2</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

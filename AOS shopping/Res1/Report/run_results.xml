@@ -1,0 +1,1014 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>StartUp Browser.Navigate</Name>
+    <Description>Navigate to http://advantageonlineshopping.com</Description>
+    <StartTime>2021-06-08 12:07:29</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <Operation>Navigate</Operation>
+        <OperationData><![CDATA[Navigate to http://advantageonlineshopping.com]]></OperationData>
+      </TestObject>
+      <IconKey>a780f304841846228e1324812ce5e066</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\fb72b578-0858-41b9-8208-757310aaa56c.jpeg" highlight="0,0,1124,484" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>StartUp Browser.Sync</Name>
+    <Description />
+    <StartTime>2021-06-08 12:07:30</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <Operation>Sync</Operation>
+      </TestObject>
+      <IconKey>a780f304841846228e1324812ce5e066</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\69059a3a-68c3-47d2-8c06-271cb61b28fe.jpeg" highlight="0,0,1124,484" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>StartUp Browser</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2021-06-08 12:07:29</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>a780f304841846228e1324812ce5e066</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>SpeakersCategory.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:07:33</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[SpeakersCategory]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[SPEAKERSShop Now]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[DIV]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>586637ed15554d339df61b9e1cde5f9f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\2a4ef667-367a-4e30-8c7f-bbf8ff35c537.jpeg" highlight="0,103,376,244" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>"LOGITECH X100 SPEAKER"- Description mismatch</Name>
+    <Description>The object was not found using the test object description. Check the object's properties.</Description>
+    <StartTime>2021-06-08 12:07:55</StartTime>
+    <Result>Warning</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[WebElement]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SECTION]]></Value>
+          </Property>
+          <BasicMatch>1</BasicMatch>
+        </SIDBasicProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[LOGITECH X100 SPEAKER]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[The object was not found using the test object description. Check the object's properties.]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[LOGITECH X100 SPEAKER SYSTEM - WIRELESS SPEAKER(S)  $49.99 SOLD OUT         LOGITECH X100 SPEAKER SYSTEM - WIRELESS SPEAKER(S) $49.99 SOLD OUT Pump up the volume and enjoy crystal-clear sound from this mobile speaker. This portable speaker is perfect for life on-the-go. Take it on the road or relax and listen at home because this mobile speaker goes everywhere. Simple, intuitive design lets you wirelessly connect and stream music from your Bluetooth-enabled device from up to 30' away. Easily manage phone calls and volume control from your mobile phone. Enjoy five hours of continuous play before you need to recharge. Recharge the built-in, lithium-ion battery with the convenience of the included micro-USB cable.  Color:         Quantity:        Add Warranty  $100.00ADD TO CART      PRODUCT SPECIFICATIONS COMPATIBILITY Any device that has bluetooth enabled  CONNECTOR Wireless  MANUFACTURER Logitech  WEIGHT 1.0 lb  WIRELESS TECHNOLOGY Bluetooh®]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SECTION]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>1a0f88ec513c40f891791a68121d0f7b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\6091c2df-2b6d-4246-bc57-a5e27f0f61eb.jpeg" highlight="0,65,1107,661" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>"LOGITECH X100 SPEAKER"- Smart Identification</Name>
+    <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not found.&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;micclass=WebElement&lt;br&gt;innertext=LOGITECH X100 SPEAKER SYSTEM - WIRELESS SPEAKER(S)  $49.99 SOLD OUT         LOGITECH X100 SPEAKER SYSTEM - WIRELESS SPEAKER(S) $49.99 SOLD OUT Pump up the volume and enjoy crystal-clear sound from this mobile speaker. This portable speaker is perfect for life on-the-go. Take it on the road or relax and listen at home because this mobile speaker goes everywhere. Simple, intuitive design lets you wirelessly connect and stream music from your Bluetooth-enabled device from up to 30' away. Easily manage phone calls and volume control from your mobile phone. Enjoy five hours of continuous play before you need to recharge. Recharge the built-in, lithium-ion battery with the convenience of the included micro-USB cable.  Color:         Quantity:        Add Warranty  $100.00ADD TO CART      PRODUCT SPECIFICATIONS COMPATIBILITY Any device that has bluetooth enabled  CONNECTOR Wireless  MANUFACTURER Logitech  WEIGHT 1.0 lb  WIRELESS TECHNOLOGY Bluetooh®&lt;br&gt;html tag=SECTION&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (1 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+micclass=WebElement&lt;br&gt;html tag=SECTION&lt;br&gt;</Description>
+    <StartTime>2021-06-08 12:07:55</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[WebElement]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SECTION]]></Value>
+          </Property>
+          <BasicMatch>1</BasicMatch>
+        </SIDBasicProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[LOGITECH X100 SPEAKER]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<P><span class="text">The smart identification mechanism was invoked.</span></P><P><SPAN class=text>Reason: object not found.</SPAN></P>           <SPAN class=text><b>Original description:</b></SPAN><br>micclass=WebElement<br>innertext=LOGITECH X100 SPEAKER SYSTEM - WIRELESS SPEAKER(S)  $49.99 SOLD OUT         LOGITECH X100 SPEAKER SYSTEM - WIRELESS SPEAKER(S) $49.99 SOLD OUT Pump up the volume and enjoy crystal-clear sound from this mobile speaker. This portable speaker is perfect for life on-the-go. Take it on the road or relax and listen at home because this mobile speaker goes everywhere. Simple, intuitive design lets you wirelessly connect and stream music from your Bluetooth-enabled device from up to 30' away. Easily manage phone calls and volume control from your mobile phone. Enjoy five hours of continuous play before you need to recharge. Recharge the built-in, lithium-ion battery with the convenience of the included micro-USB cable.  Color:         Quantity:        Add Warranty  $100.00ADD TO CART      PRODUCT SPECIFICATIONS COMPATIBILITY Any device that has bluetooth enabled  CONNECTOR Wireless  MANUFACTURER Logitech  WEIGHT 1.0 lb  WIRELESS TECHNOLOGY Bluetooh®<br>html tag=SECTION<br><P><FONT face=Verdana size=2><SPAN class=text><B>Smart Identification Alternative Description: </B></SPAN></FONT></P><FONT face=Verdana size=2><u>Base filter properties (1 objects found)&nbsp;</FONT></u><br>
+micclass=WebElement<br>html tag=SECTION<br>]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[LOGITECH X100 SPEAKER SYSTEM - WIRELESS SPEAKER(S)  $49.99 SOLD OUT         LOGITECH X100 SPEAKER SYSTEM - WIRELESS SPEAKER(S) $49.99 SOLD OUT Pump up the volume and enjoy crystal-clear sound from this mobile speaker. This portable speaker is perfect for life on-the-go. Take it on the road or relax and listen at home because this mobile speaker goes everywhere. Simple, intuitive design lets you wirelessly connect and stream music from your Bluetooth-enabled device from up to 30' away. Easily manage phone calls and volume control from your mobile phone. Enjoy five hours of continuous play before you need to recharge. Recharge the built-in, lithium-ion battery with the convenience of the included micro-USB cable.  Color:         Quantity:        Add Warranty  $100.00ADD TO CART      PRODUCT SPECIFICATIONS COMPATIBILITY Any device that has bluetooth enabled  CONNECTOR Wireless  MANUFACTURER Logitech  WEIGHT 1.0 lb  WIRELESS TECHNOLOGY Bluetooh®]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SECTION]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>325663a45ed6498d85668c2173f044cc</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\b4dd0cb7-e6a0-4407-83cf-55af0a2d5a87.jpeg" highlight="0,65,1107,661" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>LOGITECH X100 SPEAKER.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:07:55</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[LOGITECH X100 SPEAKER]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[LOGITECH X100 SPEAKER SYSTEM - WIRELESS SPEAKER(S)  $49.99 SOLD OUT         LOGITECH X100 SPEAKER SYSTEM - WIRELESS SPEAKER(S) $49.99 SOLD OUT Pump up the volume and enjoy crystal-clear sound from this mobile speaker. This portable speaker is perfect for life on-the-go. Take it on the road or relax and listen at home because this mobile speaker goes everywhere. Simple, intuitive design lets you wirelessly connect and stream music from your Bluetooth-enabled device from up to 30' away. Easily manage phone calls and volume control from your mobile phone. Enjoy five hours of continuous play before you need to recharge. Recharge the built-in, lithium-ion battery with the convenience of the included micro-USB cable.  Color:         Quantity:        Add Warranty  $100.00ADD TO CART      PRODUCT SPECIFICATIONS COMPATIBILITY Any device that has bluetooth enabled  CONNECTOR Wireless  MANUFACTURER Logitech  WEIGHT 1.0 lb  WIRELESS TECHNOLOGY Bluetooh®]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SECTION]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>1a0f88ec513c40f891791a68121d0f7b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\647ba787-ae7e-4a11-97b8-bee17758bd14.jpeg" highlight="0,65,1107,661" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>"save_to_cart"- Description mismatch</Name>
+    <Description>The object was not found using the test object description. Check the object's properties.</Description>
+    <StartTime>2021-06-08 12:08:16</StartTime>
+    <Result>Warning</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[WebButton]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[BUTTON]]></Value>
+          </Property>
+          <BasicMatch>3</BasicMatch>
+        </SIDBasicProperties>
+        <SIDOptionalProperties>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[ADD TO CART]]></Value>
+            <Info><![CDATA[Skipped]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[submit]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>2</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[html id]]></Name>
+            <Value><![CDATA[]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>1</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[value]]></Name>
+            <Value><![CDATA[ADD TO CART]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[roboto-medium ng-scope]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[visible]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+        </SIDOptionalProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[save_to_cart]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[The object was not found using the test object description. Check the object's properties.]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[submit]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[ADD TO CART]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[BUTTON]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>22c862fb0dbb4730aa2380fa3837e5a7</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\fed3c633-7396-4109-a980-83891d5ffddd.jpeg" highlight="60,312,183,52" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>"save_to_cart"- Smart Identification</Name>
+    <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not found.&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;type=submit&lt;br&gt;name=ADD TO CART&lt;br&gt;micclass=WebButton&lt;br&gt;html tag=BUTTON&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (3 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+micclass=WebButton&lt;br&gt;html tag=BUTTON&lt;br&gt;&lt;br&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Optional filter properties&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+name=ADD TO CART&lt;SPAN class=Failed&gt; (Skipped)&lt;/SPAN&gt;&lt;br&gt;type=submit&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 2 matches)&lt;/SPAN&gt;&lt;br&gt;html id=&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 1 matches)&lt;/SPAN&gt;&lt;br&gt;value=ADD TO CART&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;class=roboto-medium ng-scope&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;visible=1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;acc_name=&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;</Description>
+    <StartTime>2021-06-08 12:08:17</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[WebButton]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[BUTTON]]></Value>
+          </Property>
+          <BasicMatch>3</BasicMatch>
+        </SIDBasicProperties>
+        <SIDOptionalProperties>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[ADD TO CART]]></Value>
+            <Info><![CDATA[Skipped]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[submit]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>2</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[html id]]></Name>
+            <Value><![CDATA[]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>1</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[value]]></Name>
+            <Value><![CDATA[ADD TO CART]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[roboto-medium ng-scope]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[visible]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+        </SIDOptionalProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[save_to_cart]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<P><span class="text">The smart identification mechanism was invoked.</span></P><P><SPAN class=text>Reason: object not found.</SPAN></P>           <SPAN class=text><b>Original description:</b></SPAN><br>type=submit<br>name=ADD TO CART<br>micclass=WebButton<br>html tag=BUTTON<br><P><FONT face=Verdana size=2><SPAN class=text><B>Smart Identification Alternative Description: </B></SPAN></FONT></P><FONT face=Verdana size=2><u>Base filter properties (3 objects found)&nbsp;</FONT></u><br>
+micclass=WebButton<br>html tag=BUTTON<br><br><FONT face=Verdana size=2><u>Optional filter properties</FONT></u><br>
+name=ADD TO CART<SPAN class=Failed> (Skipped)</SPAN><br>type=submit<SPAN class=passed> (Used</SPAN>, 2 matches)</SPAN><br>html id=<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><br>value=ADD TO CART<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>class=roboto-medium ng-scope<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>visible=1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>acc_name=<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[submit]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[ADD TO CART]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[BUTTON]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>325663a45ed6498d85668c2173f044cc</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\90305cf8-b083-443f-bf2e-43e2ae2380e9.jpeg" highlight="60,312,183,52" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>save_to_cart.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:08:17</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[save_to_cart]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[submit]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[ADD TO CART]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[BUTTON]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>22c862fb0dbb4730aa2380fa3837e5a7</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\13634511-20e3-4ba1-b853-22dc053f2fe8.jpeg" highlight="60,312,183,52" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>"ShoppingCart"- Description mismatch</Name>
+    <Description>The object was not found using the test object description. Check the object's properties.</Description>
+    <StartTime>2021-06-08 12:08:38</StartTime>
+    <Result>Warning</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[Link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <BasicMatch>16</BasicMatch>
+        </SIDBasicProperties>
+        <SIDOptionalProperties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Skipped]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[html id]]></Name>
+            <Value><![CDATA[shoppingCartLink]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>1</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[img]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[href]]></Name>
+            <Value><![CDATA[http://advantageonlineshopping.com/#/shoppingCart]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[visible]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+        </SIDOptionalProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[ShoppingCart]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[The object was not found using the test object description. Check the object's properties.]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[role]]></Name>
+            <Value><![CDATA[link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>586637ed15554d339df61b9e1cde5f9f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\1fea8778-e891-48c6-9124-bf4f70b1654a.jpeg" highlight="988,11,42,47" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>"ShoppingCart"- Smart Identification</Name>
+    <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not found.&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;text=1&lt;br&gt;role=link&lt;br&gt;micclass=Link&lt;br&gt;html tag=A&lt;br&gt;acc_name=ShoppingCart&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (16 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+micclass=Link&lt;br&gt;html tag=A&lt;br&gt;&lt;br&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Optional filter properties&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+text=1&lt;SPAN class=Failed&gt; (Skipped)&lt;/SPAN&gt;&lt;br&gt;html id=shoppingCartLink&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 1 matches)&lt;/SPAN&gt;&lt;br&gt;class=img&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;href=http://advantageonlineshopping.com/#/shoppingCart&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;visible=1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;acc_name=ShoppingCart&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;</Description>
+    <StartTime>2021-06-08 12:08:39</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[Link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <BasicMatch>16</BasicMatch>
+        </SIDBasicProperties>
+        <SIDOptionalProperties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Skipped]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[html id]]></Name>
+            <Value><![CDATA[shoppingCartLink]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>1</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[img]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[href]]></Name>
+            <Value><![CDATA[http://advantageonlineshopping.com/#/shoppingCart]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[visible]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+        </SIDOptionalProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[ShoppingCart]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<P><span class="text">The smart identification mechanism was invoked.</span></P><P><SPAN class=text>Reason: object not found.</SPAN></P>           <SPAN class=text><b>Original description:</b></SPAN><br>text=1<br>role=link<br>micclass=Link<br>html tag=A<br>acc_name=ShoppingCart<br><P><FONT face=Verdana size=2><SPAN class=text><B>Smart Identification Alternative Description: </B></SPAN></FONT></P><FONT face=Verdana size=2><u>Base filter properties (16 objects found)&nbsp;</FONT></u><br>
+micclass=Link<br>html tag=A<br><br><FONT face=Verdana size=2><u>Optional filter properties</FONT></u><br>
+text=1<SPAN class=Failed> (Skipped)</SPAN><br>html id=shoppingCartLink<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><br>class=img<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>href=http://advantageonlineshopping.com/#/shoppingCart<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>visible=1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>acc_name=ShoppingCart<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[role]]></Name>
+            <Value><![CDATA[link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>325663a45ed6498d85668c2173f044cc</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\03444d82-42d4-4192-8f40-056a0052494c.jpeg" highlight="988,11,42,47" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>ShoppingCart.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:08:39</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[ShoppingCart]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[role]]></Name>
+            <Value><![CDATA[link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>586637ed15554d339df61b9e1cde5f9f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\95492d21-cdfe-4c94-ad90-2d2be63149f5.jpeg" highlight="988,11,42,47" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>Page</Description>
+    <StartTime>2021-06-08 12:07:33</StartTime>
+    <Duration>88</Duration>
+    <Result>Warning</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>f796e3da86ba49a884b96a3eb971603f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2021-06-08 12:07:33</StartTime>
+    <Duration>88</Duration>
+    <Result>Warning</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>a780f304841846228e1324812ce5e066</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>REMOVE</Name>
+    <ErrorText>Cannot identify the object "REMOVE" (of class WebElement).
+Verify that this object's properties match an object currently displayed in your application.</ErrorText>
+    <Description>Cannot&amp;nbsp;identify&amp;nbsp;the&amp;nbsp;object&amp;nbsp;"REMOVE"&amp;nbsp;(of&amp;nbsp;class&amp;nbsp;WebElement).&lt;br/&gt;Verify&amp;nbsp;that&amp;nbsp;this&amp;nbsp;object's&amp;nbsp;properties&amp;nbsp;match&amp;nbsp;an&amp;nbsp;object&amp;nbsp;currently&amp;nbsp;displayed&amp;nbsp;in&amp;nbsp;your&amp;nbsp;application.&lt;br/&gt;&lt;br/&gt;Object's physical description:&lt;br&gt;Mercury Class = WebElement&lt;br&gt;Html Tag = A&lt;br&gt;_xpath = //DIV[@id="shoppingCart"]/TABLE[1]/TBODY[1]/TR[1]/TD[6]/SPAN[1]/A[3]&lt;br&gt;|Visible = -1&lt;br&gt;innertext = REMOVE&lt;br&gt;Html Id = &lt;br&gt;DHTML Class = remove red ng-scope&lt;br&gt;acc_name = &lt;br&gt;</Description>
+    <StartTime>2021-06-08 12:09:00</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Action1]]></ModuleName>
+          <FileName><![CDATA[Action1]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("REMOVE").Click]]></Scripts>
+          <LineNo><![CDATA[6]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[REMOVE]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Cannot&nbsp;identify&nbsp;the&nbsp;object&nbsp;"REMOVE"&nbsp;(of&nbsp;class&nbsp;WebElement).<br/>Verify&nbsp;that&nbsp;this&nbsp;object's&nbsp;properties&nbsp;match&nbsp;an&nbsp;object&nbsp;currently&nbsp;displayed&nbsp;in&nbsp;your&nbsp;application.]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[REMOVE]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>1a0f88ec513c40f891791a68121d0f7b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <NodeType>Run Error</NodeType>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\b0116ff2-63e8-48e0-a363-2a9b4c500cbf.jpeg" highlight="0,0,1124,661" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2021-06-08 12:09:21</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>143411ca3f464bb0a12185ea5efc414e</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\785ed000-cd83-4d75-92b4-954d4228c42d.jpeg" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2021-06-08 12:09:01</StartTime>
+    <Duration>20</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>a780f304841846228e1324812ce5e066</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2021-06-08 12:07:31</StartTime>
+    <Duration>110</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>74be9adb1de04f2a9edb551ac5278539</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2021-06-08 12:07:29</StartTime>
+    <Duration>112</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>8b9216b2a7eb452483403104a3e8d83e</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Microsoft Internet Explorer</Name>
+        <Path>C:\Program Files\Internet Explorer\IEXPLORE.EXE</Path>
+        <Version>11</Version>
+        <Technology>web</Technology>
+        <Reserved />
+        <AdditionalInfos>
+          <Info>http://advantageonlineshopping.com</Info>
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2021-06-08 12:09:21</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>9b29928fe6ff4eabbe32146eb303a5c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\bedea901-e0e3-43f1-be6e-73fe303fba4d.jpeg" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>AOS shopping</Name>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>0</ToolVersion>
+    <ToolVersionStringLiteral>15.0.2</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2021-06-08 12:07:27</StartTime>
+    <Duration>114</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>fea2dbc35fca404ea5a95b2df28b19aa</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>00:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>demo</User>
+      <CpuInfo>Intel(R) Xeon(R) Platinum 8175M CPU @ 2.50GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16196</TotalMemory>
+      <HostName>NIMBUSCLIENT</HostName>
+      <OSInfo>Windows Server 2016</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res1</ResultName>
+    <RunStartTime>2021-06-08 12:07:27</RunStartTime>
+    <Timezone>00:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>0</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>15.0.2</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

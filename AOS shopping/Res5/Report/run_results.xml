@@ -1,0 +1,2068 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>StartUp Browser.Navigate</Name>
+    <Description>Navigate to http://advantageonlineshopping.com</Description>
+    <StartTime>2021-06-08 12:27:46</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <Operation>Navigate</Operation>
+        <OperationData><![CDATA[Navigate to http://advantageonlineshopping.com]]></OperationData>
+      </TestObject>
+      <IconKey>5cdefa253b214906a7fded16a6074b39</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\b5152ae9-a523-4c61-a0ad-07639023fd9d.jpeg" highlight="0,0,1124,484" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>StartUp Browser.Sync</Name>
+    <Description />
+    <StartTime>2021-06-08 12:27:47</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <Operation>Sync</Operation>
+      </TestObject>
+      <IconKey>5cdefa253b214906a7fded16a6074b39</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\e2326f2a-55c2-4ad5-95e3-dae0c600b441.jpeg" highlight="0,0,1124,484" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>StartUp Browser</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2021-06-08 12:27:46</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>5cdefa253b214906a7fded16a6074b39</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>SpeakersCategoryTxt.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:27:50</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[SpeakersCategoryTxt]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[SPEAKERS]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8c0c3f15c66643a6912c8f0f7a1b841c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\2278f30a-e798-448f-835c-772e811a1924.jpeg" highlight="0,265,376,121" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Logitech X100 Speaker_2.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:27:51</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Logitech X100 Speaker_2]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Logitech X100 Speaker System - Wireless Speaker(s)]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>34153dfcecf0491a80d3b229eb5becd2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\6adb3289-cb45-4f57-af71-1a29a4f3271e.jpeg" highlight="273,388,194,71" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>quantity.Set</Name>
+    <Description>"1"</Description>
+    <StartTime>2021-06-08 12:27:53</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[quantity]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["1"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[quantity]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8e59d4e190eb40bda729750cd97fe31d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\e31dd139-857a-4dbc-aa3e-0e8809ea56ef.jpeg" highlight="710,231,32,22" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>save_to_cart.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:27:53</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[save_to_cart]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[submit]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[ADD TO CART]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[BUTTON]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>68702ea8058f4011aae74364c38db5cb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\3b471e40-d8f9-4242-99d2-4c0615c650bd.jpeg" highlight="614,314,320,52" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>ShoppingCart.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:27:53</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[ShoppingCart]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[role]]></Name>
+            <Value><![CDATA[link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8c0c3f15c66643a6912c8f0f7a1b841c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\ef5558ea-02f1-4893-a4b8-7eac7d2c7c66.jpeg" highlight="988,11,42,47" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>REMOVE.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:27:54</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[REMOVE]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[REMOVE]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>34153dfcecf0491a80d3b229eb5becd2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\1fe70460-ff99-4401-9259-3bf7240cdf15.jpeg" highlight="1045,287,40,34" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Checkpoint">
+<Data>
+    <Name>"Your shopping cart is empty_2"</Name>
+    <Description> </Description>
+    <StartTime>2021-06-08 12:27:54</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Your shopping cart is]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[ ]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Your shopping cart is empty]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[LABEL]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[roboto-bold ng-scope]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <Checkpoint>
+        <Type>Standard Checkpoint</Type>
+        <Properties>
+          <Property>
+            <StdChkPointPropertyName><![CDATA[html tag]]></StdChkPointPropertyName>
+            <StdChkPointPropertyActualValue><![CDATA[LABEL]]></StdChkPointPropertyActualValue>
+            <StdChkPointPropertyExpectedValue><![CDATA[LABEL]]></StdChkPointPropertyExpectedValue>
+          </Property>
+          <Property>
+            <StdChkPointPropertyName><![CDATA[innertext]]></StdChkPointPropertyName>
+            <StdChkPointPropertyActualValue><![CDATA[Your shopping cart is empty]]></StdChkPointPropertyActualValue>
+            <StdChkPointPropertyExpectedValue><![CDATA[Your shopping cart is empty]]></StdChkPointPropertyExpectedValue>
+          </Property>
+        </Properties>
+        <ShortDescription>Checkpoint passed.</ShortDescription>
+      </Checkpoint>
+      <IconKey>34153dfcecf0491a80d3b229eb5becd2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\97315c50-6bc3-4df7-8f5c-15b8c4236cb3.jpeg" highlight="352,225,404,81" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Your shopping cart is</Name>
+    <Description>WebElement</Description>
+    <StartTime>2021-06-08 12:27:54</StartTime>
+    <Duration>1</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Your shopping cart is]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[WebElement]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Your shopping cart is empty]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[LABEL]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[roboto-bold ng-scope]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>34153dfcecf0491a80d3b229eb5becd2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>Page</Description>
+    <StartTime>2021-06-08 12:27:50</StartTime>
+    <Duration>5</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>1cef1ccdf2c046db847d52b8e708548c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2021-06-08 12:27:50</StartTime>
+    <Duration>5</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>5cdefa253b214906a7fded16a6074b39</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2021-06-08 12:27:48</StartTime>
+    <Duration>7</Duration>
+    <Result>Passed</Result>
+    <InputParameters>
+      <Parameter name="Param1" value="" type="System.String" />
+    </InputParameters>
+    <Extension>
+      <IconKey>3f3cf355f5dd429e817f7daa8652dce0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2021-06-08 12:27:46</StartTime>
+    <Duration>9</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>a3cc8a6c91bb4f5691dc38f84263f391</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Microsoft Internet Explorer</Name>
+        <Path>C:\Program Files\Internet Explorer\IEXPLORE.EXE</Path>
+        <Version>11</Version>
+        <Technology>web</Technology>
+        <Reserved />
+        <AdditionalInfos>
+          <Info>http://advantageonlineshopping.com</Info>
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<ReportNode type="Iteration">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>StartUp Browser.Navigate</Name>
+    <Description>Navigate to http://advantageonlineshopping.com</Description>
+    <StartTime>2021-06-08 12:27:55</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <Operation>Navigate</Operation>
+        <OperationData><![CDATA[Navigate to http://advantageonlineshopping.com]]></OperationData>
+      </TestObject>
+      <IconKey>5cdefa253b214906a7fded16a6074b39</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\04058837-0def-4f77-bef7-b7334e0e7897.jpeg" highlight="0,0,1124,484" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>StartUp Browser.Sync</Name>
+    <Description />
+    <StartTime>2021-06-08 12:27:56</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <Operation>Sync</Operation>
+      </TestObject>
+      <IconKey>5cdefa253b214906a7fded16a6074b39</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\89660a49-9c0f-4aaf-9e0a-61edbb6b4ab8.jpeg" highlight="0,0,1124,484" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>StartUp Browser</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2021-06-08 12:27:55</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>5cdefa253b214906a7fded16a6074b39</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>SpeakersCategoryTxt.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:27:58</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[SpeakersCategoryTxt]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[SPEAKERS]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8c0c3f15c66643a6912c8f0f7a1b841c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\987f8aae-bac5-4e13-ad3d-79e7248357c7.jpeg" highlight="0,265,376,121" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Logitech X100 Speaker_2.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:28:00</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Logitech X100 Speaker_2]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Logitech X100 Speaker System - Wireless Speaker(s)]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>34153dfcecf0491a80d3b229eb5becd2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\25ff15e8-20bf-45cf-8180-76272b47bc72.jpeg" highlight="273,388,194,71" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>quantity.Set</Name>
+    <Description>"2"</Description>
+    <StartTime>2021-06-08 12:28:01</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[quantity]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["2"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[quantity]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8e59d4e190eb40bda729750cd97fe31d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\9545792d-2553-45a2-841d-151d11a9db41.jpeg" highlight="710,231,32,22" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>save_to_cart.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:28:01</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[save_to_cart]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[submit]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[ADD TO CART]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[BUTTON]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>68702ea8058f4011aae74364c38db5cb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\fe81b076-baaf-4c1d-896d-0d188e84b247.jpeg" highlight="614,314,320,52" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>"ShoppingCart"- Description mismatch</Name>
+    <Description>The object was not found using the test object description. Check the object's properties.</Description>
+    <StartTime>2021-06-08 12:28:23</StartTime>
+    <Result>Warning</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[Link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <BasicMatch>17</BasicMatch>
+        </SIDBasicProperties>
+        <SIDOptionalProperties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Skipped]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[html id]]></Name>
+            <Value><![CDATA[shoppingCartLink]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>1</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[img]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[href]]></Name>
+            <Value><![CDATA[http://advantageonlineshopping.com/#/shoppingCart]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[visible]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+        </SIDOptionalProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[ShoppingCart]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[The object was not found using the test object description. Check the object's properties.]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[role]]></Name>
+            <Value><![CDATA[link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8c0c3f15c66643a6912c8f0f7a1b841c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\fcac3c70-feed-4f2e-98e3-76509a378d5c.jpeg" highlight="988,11,42,47" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>"ShoppingCart"- Smart Identification</Name>
+    <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not found.&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;text=1&lt;br&gt;role=link&lt;br&gt;micclass=Link&lt;br&gt;html tag=A&lt;br&gt;acc_name=ShoppingCart&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (17 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+micclass=Link&lt;br&gt;html tag=A&lt;br&gt;&lt;br&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Optional filter properties&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+text=1&lt;SPAN class=Failed&gt; (Skipped)&lt;/SPAN&gt;&lt;br&gt;html id=shoppingCartLink&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 1 matches)&lt;/SPAN&gt;&lt;br&gt;class=img&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;href=http://advantageonlineshopping.com/#/shoppingCart&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;visible=1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;acc_name=ShoppingCart&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;</Description>
+    <StartTime>2021-06-08 12:28:24</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[Link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <BasicMatch>17</BasicMatch>
+        </SIDBasicProperties>
+        <SIDOptionalProperties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Skipped]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[html id]]></Name>
+            <Value><![CDATA[shoppingCartLink]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>1</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[img]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[href]]></Name>
+            <Value><![CDATA[http://advantageonlineshopping.com/#/shoppingCart]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[visible]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+        </SIDOptionalProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[ShoppingCart]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<P><span class="text">The smart identification mechanism was invoked.</span></P><P><SPAN class=text>Reason: object not found.</SPAN></P>           <SPAN class=text><b>Original description:</b></SPAN><br>text=1<br>role=link<br>micclass=Link<br>html tag=A<br>acc_name=ShoppingCart<br><P><FONT face=Verdana size=2><SPAN class=text><B>Smart Identification Alternative Description: </B></SPAN></FONT></P><FONT face=Verdana size=2><u>Base filter properties (17 objects found)&nbsp;</FONT></u><br>
+micclass=Link<br>html tag=A<br><br><FONT face=Verdana size=2><u>Optional filter properties</FONT></u><br>
+text=1<SPAN class=Failed> (Skipped)</SPAN><br>html id=shoppingCartLink<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><br>class=img<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>href=http://advantageonlineshopping.com/#/shoppingCart<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>visible=1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>acc_name=ShoppingCart<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[role]]></Name>
+            <Value><![CDATA[link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8682f20e19ec4a799ef8c76a6479137d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\038948d5-6de8-4baf-940f-00cb22e009f4.jpeg" highlight="988,11,42,47" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>ShoppingCart.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:28:24</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[ShoppingCart]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[role]]></Name>
+            <Value><![CDATA[link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8c0c3f15c66643a6912c8f0f7a1b841c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\a750a8ea-6015-42f3-8d64-1f8a282d04a8.jpeg" highlight="988,11,42,47" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>REMOVE.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:28:25</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[REMOVE]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[REMOVE]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>34153dfcecf0491a80d3b229eb5becd2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\c08afe84-2f6e-474d-bc26-8f0e7109bb49.jpeg" highlight="1045,287,40,34" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Checkpoint">
+<Data>
+    <Name>"Your shopping cart is empty_2"</Name>
+    <Description> </Description>
+    <StartTime>2021-06-08 12:28:25</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Your shopping cart is]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[ ]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Your shopping cart is empty]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[LABEL]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[roboto-bold ng-scope]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <Checkpoint>
+        <Type>Standard Checkpoint</Type>
+        <Properties>
+          <Property>
+            <StdChkPointPropertyName><![CDATA[html tag]]></StdChkPointPropertyName>
+            <StdChkPointPropertyActualValue><![CDATA[LABEL]]></StdChkPointPropertyActualValue>
+            <StdChkPointPropertyExpectedValue><![CDATA[LABEL]]></StdChkPointPropertyExpectedValue>
+          </Property>
+          <Property>
+            <StdChkPointPropertyName><![CDATA[innertext]]></StdChkPointPropertyName>
+            <StdChkPointPropertyActualValue><![CDATA[Your shopping cart is empty]]></StdChkPointPropertyActualValue>
+            <StdChkPointPropertyExpectedValue><![CDATA[Your shopping cart is empty]]></StdChkPointPropertyExpectedValue>
+          </Property>
+        </Properties>
+        <ShortDescription>Checkpoint passed.</ShortDescription>
+      </Checkpoint>
+      <IconKey>34153dfcecf0491a80d3b229eb5becd2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\99a9726c-bb1d-4788-a63c-f286b748e55d.jpeg" highlight="352,225,404,81" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Your shopping cart is</Name>
+    <Description>WebElement</Description>
+    <StartTime>2021-06-08 12:28:25</StartTime>
+    <Duration>0</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Your shopping cart is]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[WebElement]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Your shopping cart is empty]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[LABEL]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[roboto-bold ng-scope]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>34153dfcecf0491a80d3b229eb5becd2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>Page</Description>
+    <StartTime>2021-06-08 12:27:58</StartTime>
+    <Duration>27</Duration>
+    <Result>Warning</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>1cef1ccdf2c046db847d52b8e708548c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2021-06-08 12:27:58</StartTime>
+    <Duration>27</Duration>
+    <Result>Warning</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>5cdefa253b214906a7fded16a6074b39</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2021-06-08 12:27:56</StartTime>
+    <Duration>29</Duration>
+    <Result>Warning</Result>
+    <InputParameters>
+      <Parameter name="Param1" value="" type="System.String" />
+    </InputParameters>
+    <Extension>
+      <IconKey>3f3cf355f5dd429e817f7daa8652dce0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2021-06-08 12:27:55</StartTime>
+    <Duration>30</Duration>
+    <Result>Warning</Result>
+    <Extension>
+      <IconKey>a3cc8a6c91bb4f5691dc38f84263f391</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>2</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Microsoft Internet Explorer</Name>
+        <Path>C:\Program Files\Internet Explorer\IEXPLORE.EXE</Path>
+        <Version>11</Version>
+        <Technology>web</Technology>
+        <Reserved />
+        <AdditionalInfos>
+          <Info>http://advantageonlineshopping.com</Info>
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<ReportNode type="Iteration">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>StartUp Browser.Navigate</Name>
+    <Description>Navigate to http://advantageonlineshopping.com</Description>
+    <StartTime>2021-06-08 12:28:25</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <Operation>Navigate</Operation>
+        <OperationData><![CDATA[Navigate to http://advantageonlineshopping.com]]></OperationData>
+      </TestObject>
+      <IconKey>5cdefa253b214906a7fded16a6074b39</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\d9fe1174-0768-45c9-b30b-45e4da0042af.jpeg" highlight="0,0,1124,484" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>StartUp Browser.Sync</Name>
+    <Description />
+    <StartTime>2021-06-08 12:28:26</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <Operation>Sync</Operation>
+      </TestObject>
+      <IconKey>5cdefa253b214906a7fded16a6074b39</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\d645ca23-b8f9-4bf9-bd33-787a1cd8ce63.jpeg" highlight="0,0,1124,484" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>StartUp Browser</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2021-06-08 12:28:25</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[StartUp Browser]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>5cdefa253b214906a7fded16a6074b39</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>SpeakersCategoryTxt.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:28:29</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[SpeakersCategoryTxt]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[SPEAKERS]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8c0c3f15c66643a6912c8f0f7a1b841c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\52ad86d2-d052-4afb-a413-b88f08fe1621.jpeg" highlight="0,265,376,121" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Logitech X100 Speaker_2.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:28:31</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Logitech X100 Speaker_2]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Logitech X100 Speaker System - Wireless Speaker(s)]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>34153dfcecf0491a80d3b229eb5becd2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\bae5af68-ff3c-484b-ac16-0145bb0b8eba.jpeg" highlight="273,388,194,71" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>quantity.Set</Name>
+    <Description>"3"</Description>
+    <StartTime>2021-06-08 12:28:32</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[quantity]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["3"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[quantity]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8e59d4e190eb40bda729750cd97fe31d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\5f03ba66-4dab-4824-978d-5477a5d8cbc8.jpeg" highlight="710,231,32,22" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>save_to_cart.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:28:33</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[save_to_cart]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[submit]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[ADD TO CART]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[BUTTON]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>68702ea8058f4011aae74364c38db5cb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\2f60aa9c-cf77-4531-9e84-7c5a09735c07.jpeg" highlight="614,314,320,52" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>"ShoppingCart"- Description mismatch</Name>
+    <Description>The object was not found using the test object description. Check the object's properties.</Description>
+    <StartTime>2021-06-08 12:28:54</StartTime>
+    <Result>Warning</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[Link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <BasicMatch>17</BasicMatch>
+        </SIDBasicProperties>
+        <SIDOptionalProperties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Skipped]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[html id]]></Name>
+            <Value><![CDATA[shoppingCartLink]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>1</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[img]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[href]]></Name>
+            <Value><![CDATA[http://advantageonlineshopping.com/#/shoppingCart]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[visible]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+        </SIDOptionalProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[ShoppingCart]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[The object was not found using the test object description. Check the object's properties.]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[role]]></Name>
+            <Value><![CDATA[link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8c0c3f15c66643a6912c8f0f7a1b841c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\732feef1-b26e-4a11-8837-559dfff23e0e.jpeg" highlight="988,11,42,47" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>"ShoppingCart"- Smart Identification</Name>
+    <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not found.&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;text=1&lt;br&gt;role=link&lt;br&gt;micclass=Link&lt;br&gt;html tag=A&lt;br&gt;acc_name=ShoppingCart&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (17 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+micclass=Link&lt;br&gt;html tag=A&lt;br&gt;&lt;br&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Optional filter properties&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+text=1&lt;SPAN class=Failed&gt; (Skipped)&lt;/SPAN&gt;&lt;br&gt;html id=shoppingCartLink&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 1 matches)&lt;/SPAN&gt;&lt;br&gt;class=img&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;href=http://advantageonlineshopping.com/#/shoppingCart&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;visible=1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;acc_name=ShoppingCart&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;</Description>
+    <StartTime>2021-06-08 12:28:54</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[Link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <BasicMatch>17</BasicMatch>
+        </SIDBasicProperties>
+        <SIDOptionalProperties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Skipped]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[html id]]></Name>
+            <Value><![CDATA[shoppingCartLink]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>1</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[img]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[href]]></Name>
+            <Value><![CDATA[http://advantageonlineshopping.com/#/shoppingCart]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[visible]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+        </SIDOptionalProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[ShoppingCart]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<P><span class="text">The smart identification mechanism was invoked.</span></P><P><SPAN class=text>Reason: object not found.</SPAN></P>           <SPAN class=text><b>Original description:</b></SPAN><br>text=1<br>role=link<br>micclass=Link<br>html tag=A<br>acc_name=ShoppingCart<br><P><FONT face=Verdana size=2><SPAN class=text><B>Smart Identification Alternative Description: </B></SPAN></FONT></P><FONT face=Verdana size=2><u>Base filter properties (17 objects found)&nbsp;</FONT></u><br>
+micclass=Link<br>html tag=A<br><br><FONT face=Verdana size=2><u>Optional filter properties</FONT></u><br>
+text=1<SPAN class=Failed> (Skipped)</SPAN><br>html id=shoppingCartLink<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><br>class=img<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>href=http://advantageonlineshopping.com/#/shoppingCart<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>visible=1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>acc_name=ShoppingCart<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[role]]></Name>
+            <Value><![CDATA[link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8682f20e19ec4a799ef8c76a6479137d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\5cfc787d-97d6-4835-a689-59f5317fc941.jpeg" highlight="988,11,42,47" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>ShoppingCart.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:28:54</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[ShoppingCart]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[role]]></Name>
+            <Value><![CDATA[link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[ShoppingCart]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8c0c3f15c66643a6912c8f0f7a1b841c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\01ee0ff2-8500-4d78-86e0-50c1637d56e6.jpeg" highlight="988,11,42,47" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>REMOVE.Click</Name>
+    <Description />
+    <StartTime>2021-06-08 12:28:55</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[REMOVE]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[REMOVE]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>34153dfcecf0491a80d3b229eb5becd2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\0fdc055f-2f6e-46cb-9c65-1cfe6c200286.jpeg" highlight="1045,287,40,34" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Checkpoint">
+<Data>
+    <Name>"Your shopping cart is empty_2"</Name>
+    <Description> </Description>
+    <StartTime>2021-06-08 12:28:55</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Your shopping cart is]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[ ]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Your shopping cart is empty]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[LABEL]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[roboto-bold ng-scope]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <Checkpoint>
+        <Type>Standard Checkpoint</Type>
+        <Properties>
+          <Property>
+            <StdChkPointPropertyName><![CDATA[html tag]]></StdChkPointPropertyName>
+            <StdChkPointPropertyActualValue><![CDATA[LABEL]]></StdChkPointPropertyActualValue>
+            <StdChkPointPropertyExpectedValue><![CDATA[LABEL]]></StdChkPointPropertyExpectedValue>
+          </Property>
+          <Property>
+            <StdChkPointPropertyName><![CDATA[innertext]]></StdChkPointPropertyName>
+            <StdChkPointPropertyActualValue><![CDATA[Your shopping cart is empty]]></StdChkPointPropertyActualValue>
+            <StdChkPointPropertyExpectedValue><![CDATA[Your shopping cart is empty]]></StdChkPointPropertyExpectedValue>
+          </Property>
+        </Properties>
+        <ShortDescription>Checkpoint passed.</ShortDescription>
+      </Checkpoint>
+      <IconKey>34153dfcecf0491a80d3b229eb5becd2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\38c76839-d131-4654-9f04-b4ee43613926.jpeg" highlight="352,225,404,81" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Your shopping cart is</Name>
+    <Description>WebElement</Description>
+    <StartTime>2021-06-08 12:28:55</StartTime>
+    <Duration>0</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[Your shopping cart is]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[WebElement]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[Your shopping cart is empty]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[LABEL]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[class]]></Name>
+            <Value><![CDATA[roboto-bold ng-scope]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>34153dfcecf0491a80d3b229eb5becd2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>Page</Description>
+    <StartTime>2021-06-08 12:28:29</StartTime>
+    <Duration>26</Duration>
+    <Result>Warning</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>1cef1ccdf2c046db847d52b8e708548c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2021-06-08 12:28:29</StartTime>
+    <Duration>26</Duration>
+    <Result>Warning</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>5cdefa253b214906a7fded16a6074b39</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2021-06-08 12:28:27</StartTime>
+    <Duration>28</Duration>
+    <Result>Warning</Result>
+    <InputParameters>
+      <Parameter name="Param1" value="" type="System.String" />
+    </InputParameters>
+    <Extension>
+      <IconKey>3f3cf355f5dd429e817f7daa8652dce0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2021-06-08 12:28:25</StartTime>
+    <Duration>30</Duration>
+    <Result>Warning</Result>
+    <Extension>
+      <IconKey>a3cc8a6c91bb4f5691dc38f84263f391</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>3</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Microsoft Internet Explorer</Name>
+        <Path>C:\Program Files\Internet Explorer\IEXPLORE.EXE</Path>
+        <Version>11</Version>
+        <Technology>web</Technology>
+        <Reserved />
+        <AdditionalInfos>
+          <Info>http://advantageonlineshopping.com</Info>
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>AOS shopping</Name>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>0</ToolVersion>
+    <ToolVersionStringLiteral>15.0.2</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2021-06-08 12:27:43</StartTime>
+    <Duration>72</Duration>
+    <Result>Warning</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>8644d5679f4b43be85cd5dccde75263f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>00:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>demo</User>
+      <CpuInfo>Intel(R) Xeon(R) Platinum 8175M CPU @ 2.50GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16196</TotalMemory>
+      <HostName>NIMBUSCLIENT</HostName>
+      <OSInfo>Windows Server 2016</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res5</ResultName>
+    <RunStartTime>2021-06-08 12:27:43</RunStartTime>
+    <Timezone>00:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>0</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>15.0.2</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
